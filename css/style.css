@@ -1,0 +1,878 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.Be {
+  background: #fff;
+  color: #000;
+}
+.Be .header {
+  background: url("../img/horse2-slider-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 655px;
+  top: auto;
+}
+.Be .header .Menu {
+  width: 100%;
+  margin: 40px 0px;
+  display: inline-block;
+}
+.Be .header .Menu .Menu-main {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+  height: 102px;
+  top: auto;
+}
+.Be .header .Menu .Menu-main .Menu-left {
+  float: left;
+}
+.Be .header .Menu .Menu-main .Menu-left img {
+  margin: 0px 30px;
+}
+.Be .header .Menu .Menu-main .Menu-right {
+  float: right;
+}
+.Be .header .Menu .Menu-main .Menu-right a {
+  text-decoration: none;
+  margin: 0px 20px;
+  color: #fff;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 14px;
+  line-height: 60px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.Be .header .Menu .Menu-main .Menu-right .last-menu {
+  background: #191E1D;
+  padding: 13px 25px;
+}
+.Be .header .content {
+  margin-top: 35px;
+  margin-left: 280px;
+  margin-right: 465px;
+  display: inline-block;
+}
+.Be .header .content h2 {
+  color: #fff;
+  font-size: 58px;
+  font-family: Poppins;
+  line-height: 65px;
+  font-weight: 600;
+  text-align: left;
+}
+.Be .header .content p {
+  font-size: 15px;
+  line-height: 22px;
+  font-family: Poppins;
+  font-weight: 700;
+  text-align: left;
+  color: #fff;
+  float: left;
+}
+.Be .header .content span {
+  float: left;
+  margin: 20px 30px;
+}
+.Be .header .content span a {
+  background-color: #cf9646;
+  color: #fff;
+  font-size: 12px;
+  line-height: 36px;
+  font-family: Poppins;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px 25px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .Experience {
+  width: 100%;
+  background: #fff;
+}
+.Be .Experience .Experience_main {
+  width: 80%;
+  margin: 0 auto;
+}
+.Be .Experience .Experience_main .Experience_border {
+  border-bottom: 1px solid #f1f1f1;
+  height: 740px;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_left {
+  float: left;
+  width: 50%;
+  margin-top: -100px;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_left img {
+  width: 100%;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right {
+  float: left;
+  width: 50%;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main {
+  margin-top: 75px;
+  margin-left: 80px;
+  display: inline-block;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main h2 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 600;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main h6 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 700;
+  -webkit-text-decoration: #191e1d;
+          text-decoration: #191e1d;
+  margin: -10px 0px;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main ul {
+  list-style-type: none;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main ul li {
+  color: #737e86;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 15px;
+  line-height: 29px;
+  font-weight: 400;
+  margin: 8px 0px;
+  margin-left: -20px;
+  display: inline-block;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main ul li i {
+  color: #000;
+  margin-right: 10px;
+  font-size: 18px;
+}
+.Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main a {
+  text-decoration: none;
+  margin-top: 30px;
+  font-size: 15px;
+  line-height: 29px;
+  font-weight: 700;
+  background: #BCB8B3;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  display: inline-block;
+}
+.Be .courses {
+  width: 100%;
+  background: #fff;
+}
+.Be .courses .courses_main {
+  width: 80%;
+  margin: 80px auto;
+}
+.Be .courses .courses_main .courses_upper {
+  width: 614px;
+  margin: 0 auto;
+}
+.Be .courses .courses_main .courses_upper h2 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 700;
+  text-align: center;
+}
+.Be .courses .courses_main .courses_upper h6 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: -20px;
+  display: inline-block;
+}
+.Be .courses .courses_main .image_part {
+  width: 100%;
+}
+.Be .courses .courses_main .image_part .image_padding .image {
+  width: 33.33%;
+  padding: 15px;
+  float: left;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .courses .courses_main .image_part .image_padding .image img {
+  width: 100%;
+}
+.Be .courses .courses_main .image_part .image_padding .image h6 {
+  color: #f2bb6c;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.Be .courses .courses_main .image_part .image_padding .image h4 {
+  color: #191e1d;
+  font-size: 20px;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  line-height: 34px;
+  font-weight: 500;
+  margin: 0px;
+  display: inline-block;
+}
+.Be .courses .courses_main .image_part .image_padding .image p {
+  color: #696460;
+  font-size: 15px;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  line-height: 29px;
+  font-weight: 700;
+}
+.Be .courses .courses_main a {
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: #f2bb6c;
+  margin-left: 372px;
+  padding: 16px 90px;
+  margin-top: 40px;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .colour {
+  width: 100%;
+  background: #F9F5F1;
+  height: 600px;
+  margin-top: -600px;
+}
+.Be .horses {
+  width: 100%;
+  background: #F9F5F1;
+  margin-top: -20px;
+  display: inline-block;
+}
+.Be .horses .horses_main {
+  width: 80%;
+  margin: 80px auto;
+}
+.Be .horses .horses_main .horses_right {
+  width: 100%;
+  background: url("../img/horse2-wrapbg1.png");
+  height: 640px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Be .horses .horses_main .horses_right .horses_left {
+  width: 60%;
+  background: #fff;
+  margin-right: -30px;
+}
+.Be .horses .horses_main .horses_right .horses_left .horses_left_main {
+  width: 75%;
+  margin: 50px auto;
+}
+.Be .horses .horses_main .horses_right .horses_left .horses_left_main h2 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 700;
+  margin-top: 50px;
+  display: inline-block;
+}
+.Be .horses .horses_main .horses_right .horses_left .horses_left_main h6 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 700;
+  margin-top: -20px;
+  display: inline-block;
+}
+.Be .horses .horses_main .horses_right .horses_left .horses_left_main .text {
+  width: 100%;
+}
+.Be .horses .horses_main .horses_right .horses_left .horses_left_main .text .text_left {
+  width: 50%;
+  float: left;
+  padding: 10px;
+  margin-bottom: 50px;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .horses .horses_main .horses_right .horses_left .horses_left_main .text .text_left .border {
+  border-top: 1px solid #f1f1f1;
+}
+.Be .horses .horses_main .horses_right .horses_left .horses_left_main .text .text_left .border p {
+  color: #696460;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 15px;
+  line-height: 29px;
+  font-weight: 700;
+}
+.Be .horses .horses_main .horses_right a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #cac6c1;
+  font-size: 15px;
+  line-height: 29px;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  text-transform: uppercase;
+  padding: 14px 22px;
+  margin-top: -20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: inline-block;
+}
+.Be .question {
+  width: 100%;
+  margin-top: -20px;
+  background: #FCFCFC;
+  margin-bottom: -20px;
+  display: inline-block;
+}
+.Be .question .question_main {
+  width: 80%;
+  margin: 0 auto;
+}
+.Be .question .question_main h2 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 100px;
+}
+.Be .question .question_main .wraper {
+  margin-bottom: 100px;
+}
+.Be .question .question_main .wraper .title {
+  background: #F7F7F7;
+  color: #444444;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+.Be .question .question_main .wraper .title .low {
+  background: #EFEFEF;
+  padding: 24px;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: inline-block;
+}
+.Be .question .question_main .wraper .title .high {
+  padding: 24px;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .question .question_main .wraper .title .high i {
+  float: right;
+  margin: 20px;
+}
+.Be .poster {
+  width: 100%;
+  background: url("../img/horse2-sectionbg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 690px;
+  margin-bottom: -80px;
+}
+.Be .poster .poster_main {
+  width: 80%;
+  margin: 0 auto;
+}
+.Be .poster .poster_main .description {
+  width: 480px;
+  float: right;
+  margin: 150px 0px;
+}
+.Be .poster .poster_main .description h2 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 600px;
+}
+.Be .poster .poster_main .description h6 {
+  color: #191e1d;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: -10px;
+  font-weight: 700;
+}
+.Be .poster .poster_main .description input[type="text"] {
+  background: #fff;
+  border: none;
+  width: 250px;
+  padding: 12px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .poster .poster_main .description a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  background: #f2bb6c;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  padding: 14px 88px;
+  margin-top: 25px;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .footer {
+  width: 100%;
+  margin-bottom: -80px;
+}
+.Be .footer .footer_border {
+  border-bottom: 1px solid #f1f1f1;
+  height: 275px;
+}
+.Be .footer .footer_border .footer_main {
+  width: 80%;
+  margin: 80px auto;
+}
+.Be .footer .footer_border .footer_main .column1 {
+  width: 25%;
+  margin: 80px 0px;
+  float: left;
+}
+.Be .footer .footer_border .footer_main .column1 img {
+  margin-top: 10px;
+}
+.Be .footer .footer_border .footer_main .column1 p {
+  color: #696460;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-size: 15px;
+  line-height: 29px;
+  font-weight: 700;
+}
+.Be .footer .footer_border .footer_main .column1 a {
+  float: right;
+  margin: 10px;
+}
+.Be .footer .footer_border .footer_main .column1 a i {
+  text-decoration: none;
+  color: #fff;
+  background: #FFE1A6;
+  padding: 12px;
+  border-radius: 50%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Be .footer .text-down {
+  margin-left: 150px;
+}
+.Be .footer .text-down h6 {
+  font-size: 16px;
+  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-weight: 400;
+}
+.Be .footer .text-down h6 a {
+  color: #FFE1A6;
+  text-decoration: none;
+}
+.slicknav_menu {
+    display:none;
+}
+
+
+@media only screen and (max-width: 1200px) {
+  body {
+    background-color: #fff;
+    color: #000;
+  }
+
+  .Be .header .content {
+    margin-right: 420px;
+  }
+
+  .Be .header .content h2 {
+    margin-top: -80px;
+  }
+
+  .Be .header .content p {
+    margin-top: -50px;
+    font-size: 13px;
+  }
+
+  .Be .header .content span {
+    margin: -50px -1px;
+    margin-left: 30px;
+  }
+
+  .Be .header .content span a {
+    font-size: 12px;
+    padding: 6px 20px;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_left {
+    width: 50%;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_right {
+    width: 50%;
+  }
+
+  .Be .horses .horses_main .horses_right .horses_left .horses_left_main .text .text_left {
+    width: 50%;
+  }
+
+  .Be .poster .poster_main .description {
+    width: 390px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .Be .header .Menu .Menu-main .Menu-right a {
+    margin: 0px 14px;
+  }
+
+  .Be .header .content {
+    margin-right: 240px;
+  }
+
+  .Be .header .content h2 {
+    font-size: 55px;
+    line-height: 48px;
+  }
+
+  .Be .header .content p {
+    margin-top: -35px;
+  }
+
+  .Be .header .content span {
+    margin-left: 260px;
+    margin-top: -55px;
+  }
+
+  .Be .Experience .Experience_main {
+    width: 94%;
+  }
+
+  .Be .courses .courses_main {
+    width: 96%;
+  }
+
+  .Be .horses .horses_main {
+    width: 95%;
+  }
+
+  .Be .question .question_main {
+    width: 93%;
+  }
+
+  .Be .poster .poster_main {
+    width: 90%;
+    margin-left: 80px;
+  }
+
+  .Be .poster .poster_main .description {
+    width: 400px;
+  }
+
+  .Be .footer .footer_border .footer_main {
+    width: 93%;
+  }
+
+  .Be .footer .text-down {
+    margin-left: 35px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .Be .header .Menu .Menu-main .Menu-left {
+    margin: 0 auto;
+    width: 300px;
+    float: none;
+  }
+
+  .Be .header .Menu .Menu-main {
+    height: 130px;
+  }
+
+  .Be .header .Menu .Menu-main .Menu-right a {
+    margin: 0px 16px;
+  }
+
+  .Be .header .Menu .Menu-main .Menu-right .last-menu {
+    background: #191E1D;
+    padding: 12px 20px;
+  }
+
+  .Be .header .content h2 {
+    font-size: 40px;
+    line-height: 35px;
+    margin-top: -40px;
+  }
+
+  .Be .header .content p {
+    margin-top: -15px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+
+  .Be .header .content span {
+    float: none;
+  }
+
+  .Be .Experience .Experience_main {
+    width: 74%;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_left {
+    width: 100%;
+    margin-top: 100px;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_right {
+    width: 100%;
+    margin-top: -100px;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main {
+    margin-left: 30px;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main h2 {
+    font-size: 36px;
+    line-height: 44px;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main h6 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main ul li {
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: -30px;
+  }
+
+  .Be .Experience .Experience_main .Experience_border {
+    height: 1300px;
+  }
+
+  .Be .courses .courses_main {
+    width: 76%;
+  }
+
+  .Be .courses .courses_main .courses_upper h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+
+  .Be .courses .courses_main .courses_upper h6 {
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 30px;
+    margin-top: -12px;
+  }
+
+  .Be .courses .courses_main .image_part .image_padding .image {
+    width: 100%;
+    margin-top: -10px;
+    padding: 0px;
+  }
+
+  .Be .courses .courses_main .image_part .image_padding .image h6 {
+    font-size: 12px;
+    line-height: 25px;
+    margin-top: -5px;
+  }
+
+  .Be .courses .courses_main .image_part .image_padding .image h4 {
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 700;
+  }
+
+  .Be .courses .courses_main a {
+    padding: 16px 230px;
+    margin-left: 0px;
+    font-size: 12px;
+  }
+
+  .Be .horses .horses_main {
+    width: 74%;
+  }
+
+  .Be .horses .horses_main .horses_right .horses_left {
+    width: 100%;
+  }
+
+  .Be .horses .horses_main .horses_right .horses_left .horses_left_main {
+    width: 82%;
+  }
+
+  .Be .horses .horses_main .horses_right .horses_left .horses_left_main h2 {
+    font-size: 40px;
+    line-height: 42px;
+  }
+
+  .Be .horses .horses_main .horses_right .horses_left .horses_left_main .text .text_left {
+    width: 88%;
+    margin-bottom: 0px;
+  }
+
+  .Be .question .question_main {
+    width: 74%;
+  }
+
+  .Be .poster .poster_main {
+    width: 60%;
+  }
+
+  .Be .poster .poster_main .description h2 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  .Be .poster .poster_main .description input[type="text"] {
+    width: 100%;
+  }
+
+  .Be .poster .poster_main .description a {
+    width: 100%;
+  }
+
+  .Be .footer .footer_border {
+    height: 480px;
+  }
+
+  .Be .footer .footer_border .footer_main {
+    width: 74%;
+  }
+
+  .Be .footer .footer_border .footer_main .column1 {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .Be .footer .footer_border .footer_main .column1 img {
+    margin-top: 80px;
+  }
+
+  .Be .footer .text-down {
+    margin: 0 125px;
+  }
+
+  .Be .footer .text-down h6 {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 30px;
+    display: inline-block;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .Be .header .Menu .Menu-main .Menu-right a {
+    margin: 0px 3px;
+  }
+
+  .Be .header .content {
+    margin-left: 120px;
+  }
+
+  .Be .Experience .Experience_main {
+    width: 84%;
+  }
+
+  .Be .Experience .Experience_main .Experience_border .Experience_right .Experience_right_main ul li {
+    font-size: 15px;
+  }
+
+  .Be .courses .courses_main {
+    width: 82%;
+  }
+
+  .Be .courses .courses_main .courses_upper {
+    width: 480px;
+  }
+
+  .Be .courses .courses_main .courses_upper h2 {
+    margin-left: -80px;
+  }
+
+  .Be .courses .courses_main .courses_upper h6 {
+    font-size: 13px;
+    margin-left: 0px;
+  }
+
+  .Be .courses .courses_main .image_part .image_padding .image p {
+    font-size: 13px;
+  }
+
+  .Be .courses .courses_main a {
+    padding: 15px 180px;
+  }
+
+  .Be .horses .horses_main {
+    width: 84%;
+  }
+
+  .Be .horses .horses_main .horses_right .horses_left .horses_left_main h6 {
+    font-size: 13px;
+  }
+
+  .Be .horses .horses_main .horses_right .horses_left .horses_left_main .text .text_left .border p {
+    font-size: 13px;
+  }
+
+  .Be .question .question_main {
+    width: 84%;
+  }
+
+  .Be .question .question_main h2 {
+    font-size: 38px;
+    line-height: 40px;
+  }
+
+  .Be .poster .poster_main {
+    margin-left: 140px;
+  }
+
+  .Be .footer .footer_border .footer_main {
+    width: 82%;
+  }
+
+  .Be .footer .text-down {
+    margin: 0px 80px;
+  }
+
+  .Be .footer .text-down h6 {
+    font-size: 13px;
+  }
+  .slicknav_menu {
+        display:block;
+  }
+   .Be .header{
+      top: auto;
+    }
+ .Be .header .Menu .Menu-main .Menu-right{
+      display: none;
+    }
+
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/*# sourceMappingURL=style.css.map */
